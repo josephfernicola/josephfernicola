@@ -13,6 +13,6 @@ My name is Joseph Fernicola and I'm a software engineer working with JavaScript,
  <br />
 Email - josephrfernicola@gmail.com <br />
 
-LinkedIn : https://www.linkedin.com/in/joseph-f-248780205/ <br />
+LinkedIn - https://www.linkedin.com/in/joseph-f-248780205/ <br />
 
 Physical Therapist ➡️ Software Engineer
