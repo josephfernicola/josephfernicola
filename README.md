@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**josephfernicola/josephfernicola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me 👨
+My name is Joseph Fernicola and I'm a software engineer working with JavaScript, Node.js, React, Express, MongoDB, and much more. I am always looking to enhance my skills and learn something new
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on: Converting my Full Stack Electronic Health Record Application to TypeScript
+
+🌱 I’m currently learning TypeScript, SQL, GraphQL
+
+📫 How to reach me: 
+Email - josephrfernicola@gmail.com 
+
+LinkedIn : https://www.linkedin.com/in/joseph-f-248780205/
+
+Physical Therapist ➡️ Software Engineer
