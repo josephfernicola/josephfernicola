@@ -7,7 +7,7 @@ My name is Joseph Fernicola and I'm a software engineer working with JavaScript,
 
 🔭 Currently working on: Converting my full stack Electronic Health Record application to TypeScript
 
-🌱 I’m currently learning TypeScript, SQL, GraphQL
+🌱 I’m currently learning: TypeScript, SQL, GraphQL
 
 📫 How to reach me: <br />
  <br />
