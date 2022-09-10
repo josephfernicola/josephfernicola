@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Joseph Fernicola and I'm a software engineer working with JavaScript, Node.js, React, Express, MongoDB, and much more. I am always looking to enhance my skills and learn something new.
+My name is Joseph Fernicola and I'm a software engineer working with JavaScript, Node.js, React, Express, and much more. I am always looking to enhance my skills and learn something new.
 
 🔭 Currently working on: Converting my full stack Electronic Health Record application to TypeScript
 
