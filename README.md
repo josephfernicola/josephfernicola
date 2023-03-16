@@ -7,4 +7,4 @@ Email:  josephrfernicola@gmail.com <br />
 
 LinkedIn:  https://www.linkedin.com/in/joseph-fernicola-248780205/ <br />
 
-Physical Therapist ➡️ Software Engineer
+Physical Therapist ➡️ Software Developer
