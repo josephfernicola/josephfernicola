@@ -8,3 +8,5 @@ Email:  josephrfernicola@gmail.com <br />
 LinkedIn:  https://www.linkedin.com/in/joseph-fernicola-248780205/ <br />
 
 Physical Therapist ➡️ Software Developer
+
+[![josephfernicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephfernicola)](https://github.com/josephfernicola/github-readme-stats)
