@@ -12,7 +12,9 @@ Physical Therapist ➡️ Software Developer
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=josephfernicola&count_private=true&hide=contribs,prs,stars&show_icons=true&theme=rose_pine" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephfernicola&layout=compact&theme=rose_pine" />
+ 
 </div>
+<br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=josephfernicola)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=josephfernicola&theme=rose_pine)](https://git.io/streak-stats)
 
