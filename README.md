@@ -5,7 +5,7 @@ My name is Joseph Fernicola and I'm a software developer working with JavaScript
 
 Email:  josephrfernicola@gmail.com <br />
 
-LinkedIn:  https://www.linkedin.com/in/joseph-fernicola-248780205/ <br />
+LinkedIn:  https://www.linkedin.com/in/josephfernicola <br />
 
 Physical Therapist ➡️ Software Developer
 
