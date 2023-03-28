@@ -9,4 +9,10 @@ LinkedIn:  https://www.linkedin.com/in/josephfernicola <br />
 
 Physical Therapist ➡️ Software Developer
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephfernicola)](https://github.com/josephfernicola/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephfernicola)](https://github.com/josephfernicola/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephfernicola)](https://github.com/josephfernicola/github-readme-stats&theme=tokyonight)
+  
+  </div>
+
