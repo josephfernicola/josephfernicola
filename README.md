@@ -10,7 +10,6 @@ LinkedIn:  https://www.linkedin.com/in/josephfernicola <br />
 Physical Therapist ➡️ Software Developer
 
 <div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github.com/josephfernicola/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight"
-  <img class="img" src="https://github.com/josephfernicola/github-readme-stats&theme=tokyonight" 
- </div>
-
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=josephfernicola03&show_icons=true&theme=tokyonigh&count_private=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephfernicola03&theme=tokyonight&layout=compact" />
+</div>
