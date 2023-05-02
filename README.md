@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-My name is Joseph Fernicola and I'm a software developer
-
 Email:  josephrfernicola@gmail.com <br />
 
 LinkedIn:  https://www.linkedin.com/in/josephfernicola <br />
